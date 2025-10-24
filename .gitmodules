@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/cdaguiar23/full-stack-product-api.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/cdaguiar23/frontend-product-api.git
